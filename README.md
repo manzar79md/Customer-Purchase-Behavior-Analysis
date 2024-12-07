@@ -52,7 +52,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/repository-name.git
+git clone [https://github.com/username/repository-name.git](https://github.com/manzar79md/Customer-Purchase-Behavior-Analysis)
 Navigate to the project folder:
 bash
 Copy code
