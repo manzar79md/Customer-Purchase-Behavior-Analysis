@@ -52,7 +52,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone [https://github.com/username/repository-name.git](https://github.com/manzar79md/Customer-Purchase-Behavior-Analysis)
+git clone [https://github.com/username/repository-name.git](https://github.com/manzar79md/Customer-Purchase-Behavior-Analysis)](https://github.com/manzar79md/Customer-Purchase-Behavior-Analysis/blob/main/L%26T%20Final%20Project.ipynb)
 Navigate to the project folder:
 bash
 Copy code
