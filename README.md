@@ -86,6 +86,6 @@ Experiment with additional machine learning algorithms or deep learning models.
 Perform time-series analysis for seasonal patterns.
 Acknowledgments
 This project was part of the L&T EduTech Data Engineering Internship, where various machine learning and data engineering techniques were applied.
-To view the code with the output click on the link given L&T Final Project.ipynb
+To view the code with the output click on the link given [L&T Final Project.ipynb](https://github.com/manzar79md/Customer-Purchase-Behavior-Analysis/blob/main/L%26T%20Final%20Project.ipynb)
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
